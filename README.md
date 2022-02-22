@@ -10,4 +10,4 @@ MS_TEST_REGIME in "minishell.h" - is regime of stdOUT print
 
 MS_READLINE_REGIME in "minishell.h" - is regime of stdIN (GNL for leaks testing)
 
-RL_DIR in "Makefile" - To run on school computers, you need to connect the locally downloaded RedLine
+RL_DIR in "Makefile" - to run on school computers, you need to connect the locally downloaded RedLine library
